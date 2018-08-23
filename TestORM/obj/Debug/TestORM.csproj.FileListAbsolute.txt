@@ -1,0 +1,14 @@
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\obj\Debug\TestORM.csprojResolveAssemblyReference.cache
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\TestORM.exe.config
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\TestORM.exe
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\TestORM.pdb
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.DAL.dll
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.Models.dll
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.MainService.dll
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.Common.dll
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.DAL.pdb
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.Models.pdb
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.MainService.pdb
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\bin\Debug\ORM.Common.pdb
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\obj\Debug\TestORM.exe
+c:\users\damon\documents\visual studio 2017\Projects\TestORM\TestORM\obj\Debug\TestORM.pdb

@@ -1,0 +1,7 @@
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\obj\Debug\ORM.MainService.csprojResolveAssemblyReference.cache
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\bin\Debug\ORM.MainService.dll
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\bin\Debug\ORM.MainService.pdb
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\bin\Debug\ORM.Common.dll
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\bin\Debug\ORM.Common.pdb
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\obj\Debug\ORM.MainService.dll
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.MainService\obj\Debug\ORM.MainService.pdb

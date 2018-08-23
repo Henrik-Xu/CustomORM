@@ -1,0 +1,4 @@
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.Common\bin\Debug\ORM.Common.dll
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.Common\bin\Debug\ORM.Common.pdb
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.Common\obj\Debug\ORM.Common.dll
+c:\Users\Damon\documents\visual studio 2017\Projects\TestORM\ORM.Common\obj\Debug\ORM.Common.pdb
